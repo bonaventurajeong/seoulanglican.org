@@ -13,3 +13,5 @@ seoulanglican.org Wordpress website.
 ![](https://github.com/bonaventurajeong/seoulanglican.org/blob/main/11.png?raw=true)
 ![](https://github.com/bonaventurajeong/seoulanglican.org/blob/main/12.png?raw=true)
 ![](https://github.com/bonaventurajeong/seoulanglican.org/blob/main/13.png?raw=true)
+
+![Product Design Document](https://github.com/bonaventurajeong/seoulanglican.org/raw/refs/heads/main/English%20Mission%20Website%20Renewal%2086b4b192f84649a08e4040fa47e8e020.md)
